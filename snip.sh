@@ -1,4 +1,4 @@
-#! /bin/bashopen she
+#! /bin/bash
 
 echo "enter the save name:"
 read name 
