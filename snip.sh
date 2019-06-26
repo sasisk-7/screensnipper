@@ -23,7 +23,7 @@ else
     echo " Package credits :ImageMagic"
      sudo apt-get --force-yes --yes install imagemagick 
      chmod +x $PWD/snippkg.sh
-     ./$PWD/snippkg.sh
+    sh /$PWD/snippkg.sh
 fi
  echo $?
 if 
