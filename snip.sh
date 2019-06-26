@@ -25,5 +25,4 @@ else
      chmod +x $PWD/snippkg.sh
     sh /$PWD/snippkg.sh
 fi
- echo $?
-if 
+ 
